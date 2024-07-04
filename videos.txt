@@ -1,0 +1,2 @@
+event & event emitter in nodejs
+https://youtu.be/7QBb6n-Wj3A?si=IObEpx7kPIIOmR0I
