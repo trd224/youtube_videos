@@ -6,3 +6,12 @@ https://www.youtube.com/watch?v=aVjC478FJkM
 
 OOPS
 https://www.youtube.com/watch?v=c7u3ZdQowgU&t=742s
+
+angular ngrx
+https://www.youtube.com/watch?v=vcfZ0EQpYTA&t=4137s
+
+asp.net core
+https://www.youtube.com/watch?v=gYGREglx1jw&list=PLp_RsiLZjwQQ7CxVhnM4G8i5veEClNPfX
+
+oops in c#
+https://www.youtube.com/watch?v=XGecnBiGGtQ&list=PL43pGnjiVwgQz4PVzcZGAQNb3fDnWxNx2&index=1
